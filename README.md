@@ -52,7 +52,7 @@ I'm a developer and technology enthusiast passionate about programming, building
 
 ## 🚀 Featured Projects
 
-### 🗿🚬 Boujest
+### 🗿 Boujest
 A personal technology project.
 
 [Visit Boujest](https://b2n.ir/itsboujest)
