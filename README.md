@@ -59,13 +59,6 @@ A personal technology project.
 
 ---
 
-### 🗿 ARAD SEYEDIN
-For Self-improvment.
-
-[Visit ARADSEYEDIN](https://b2n.ir/itsboujest](https://testsystem.ghasemiavalem.workers.dev/)
----
-
-
 ## 🌱 Currently Exploring
 
 - Python Development
