@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, I'm Mehdi 👋</h1>
+<h1 align="center">Hey, I'm Boujest - Kareanoli - 👋</h1>
 
 <h3 align="center">
   Developer | Student | Technology Enthusiast
@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm Mehdi, also known as **Kareanoli**.
+Hello! I'm Mahdi, also known as **Boujest or Kareanoli**.
 
 I'm a developer and technology enthusiast passionate about programming, building useful digital products, and exploring new technologies.
 
@@ -56,11 +56,6 @@ I'm a developer and technology enthusiast passionate about programming, building
 A personal technology project.
 
 [Visit Boujest](https://b2n.ir/itsboujest)
-
-### 🐍 Sinrun
-A Python runner project.
-
-[Visit Sinrun](https://weathered-hall-af67.ghasemiavalem.workers.dev)
 
 ---
 
