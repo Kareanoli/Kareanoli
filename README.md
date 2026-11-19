@@ -59,14 +59,6 @@ A personal technology project.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kareanoli&show_icons=true&hide_border=true&theme=default" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareanoli&layout=compact&hide_border=true&theme=default" />
-</p>
-
----
 
 ## 🌱 Currently Exploring
 
